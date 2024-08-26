@@ -10,13 +10,10 @@
 ## Overview
 the javascript part should have been easier... too tired or i just cba to keep going over it ? But the core of the calculator app is supposed to work.
 
-### Links
 
-- Solution URL : [code]([https://github.com/EtnoPolino/Tip_calculator_app.git](https://github.com/najahaja/front-end-mentor-solution-11))
-- Live Site URL : [demo](https://etnopolino.github.io/Tip_calculator_app/)
 
 ### Built with
 
 - HTML 
 - CSS
-- Javascript vanilla
+- Javascript
